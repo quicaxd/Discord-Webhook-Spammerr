@@ -1,4 +1,4 @@
-import dhooks, os, platform, colorama, threading
+import dhooks, os, platform, threading
 import time
 import random
 
